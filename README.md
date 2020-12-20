@@ -3,6 +3,7 @@
 - [x] Validation of request - Implemented a reusable function
 - [x] Removal of item from an object - Implemented Deletion of specified item from the data objecgt sent
 - [x] Reused Implemeented validation function - The validation function is reused for item field
+- [ ] Aladin Journey around the world using iterables
 
 
 **How to setup this project**
