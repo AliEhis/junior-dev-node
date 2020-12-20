@@ -1,8 +1,8 @@
 #Junior-Developer-Node-JS Test
 **Tasks completed**
-[ x ] Validation of request - Implemented a reusable function
-[ x ] Removal of item from an object - Implemented Deletion of specified item from the data objecgt sent
-[ x ] Reused Implemeented validation function - The validation function is reused for item field
+[ X ] Validation of request - Implemented a reusable function
+[ X ] Removal of item from an object - Implemented Deletion of specified item from the data objecgt sent
+[ X ] Reused Implemeented validation function - The validation function is reused for item field
 
 
 **How to setup this project**
