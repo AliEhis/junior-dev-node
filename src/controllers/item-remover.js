@@ -3,7 +3,7 @@ const remover = function(req, res) {
     const body = req.body;
     const itemToRemove = body.item;
 
-    if (!itemToRemove) {
+    if (!body.data[itemToRemove]) {
         return res.status(200).json({
             status: "FAILED",
             code: "02",
